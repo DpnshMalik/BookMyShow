@@ -1,0 +1,60 @@
+# =====================
+# Build output folders
+# =====================
+target/
+build/
+
+# =====================
+# Eclipse / STS
+# =====================
+.classpath
+.project
+.settings/
+.springBeans
+.apt_generated
+.sts4-cache
+
+# =====================
+# IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# =====================
+# NetBeans
+# =====================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+
+# =====================
+# Maven wrapper (optional if you include wrapper)
+# =====================
+#mvn/wrapper/maven-wrapper.jar
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Compiled class files and jars (just in case)
+# =====================
+*.class
+*.jar
+
+# =====================
+# Keep source files
+# =====================
+!src/
+!pom.xml
+!README.md
